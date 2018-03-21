@@ -1,5 +1,6 @@
 def shout():
     print ("aaaaaaaaa!")
+    print ("heja")
 def introduce():
     print ("Ejo")
     print("Visual Studio COde!")
