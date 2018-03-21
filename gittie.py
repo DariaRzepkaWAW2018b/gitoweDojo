@@ -1,7 +1,8 @@
 def shout():
     print ("aaaaaaaaa!")
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello!")
+    print("I'm Gittie!")
 def add(a,b): 
     c=a+b
     return c
