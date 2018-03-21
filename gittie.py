@@ -1,6 +1,7 @@
 def shout():
     print ("aaaaaaaaa!")
 def introduce():
+    print ("Ejo")
     print("Visual Studio COde!")
     print("Hello, I'm Gittie!")
 def add(a,b): 
@@ -10,4 +11,3 @@ def add(a,b):
 shout()
 introduce()
 add(3,5)
-sth new
